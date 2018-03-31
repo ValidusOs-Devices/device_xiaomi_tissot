@@ -26,4 +26,7 @@
          increase the rate of unintentional unlocks. -->
     <bool name="config_lockscreenAntiFalsingClassifierEnabled">false</bool>
 
+    <!-- Enable doze mode -->
+    <bool name="doze_display_state_supported">true</bool>
+
 </resources>
